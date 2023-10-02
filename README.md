@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Vardhan singh 
-- 👀 I’m interested in Software Development, Front End Development and User Experience Design 
-- 🌱 I’m currently learning Software Engineering Fundamentals like C++ , HTML, CSS & Javascript
-- 📫 How to reach me ... Mail Id - adityasingh160204@protonmail.com
+- 👀 I’m interested in Data structure & Algorithms , software Development , Front End Development and User Experience Design.
+- 🌱 I’m currently learningvFundamentals like C++ , Data structures & Algorithms , HTML, CSS & Javascript.
+- 📫 How to reach me Mail Id - adityasingh160204@gmail.com 
 - and my linked profile - Aditya Vardhan Singh 
 
 <!---
